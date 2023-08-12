@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adminlte/static/css/main.e6c13ad2.css",
+    "main.js": "/adminlte/static/js/main.c8afc31e.js",
+    "static/js/787.736fb741.chunk.js": "/adminlte/static/js/787.736fb741.chunk.js",
+    "index.html": "/adminlte/index.html",
+    "main.e6c13ad2.css.map": "/adminlte/static/css/main.e6c13ad2.css.map",
+    "main.c8afc31e.js.map": "/adminlte/static/js/main.c8afc31e.js.map",
+    "787.736fb741.chunk.js.map": "/adminlte/static/js/787.736fb741.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c8afc31e.js"
+  ]
+}
